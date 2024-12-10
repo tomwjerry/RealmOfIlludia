@@ -1,0 +1,11 @@
+.vs/
+build/
+vcpkg/
+vcpkg_installed/
+Vendor/
+x64/
+*.sln
+*.TMP
+*.vcxproj
+*.vcxproj.filters
+assets

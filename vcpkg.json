@@ -1,0 +1,4 @@
+{
+    "name": "wbigame",
+    "dependencies": [ "libsodium", "gamenetworkingsockets" ]
+}
